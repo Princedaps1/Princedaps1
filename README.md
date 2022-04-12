@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Princedaps1
-- 👀 I’m interested in to be full stack developer
+- 👀 I’m a full stack developer
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate on PHP full stack projects
 - 📫 I'm reachable on twitter @princedaps
